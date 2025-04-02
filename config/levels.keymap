@@ -9,6 +9,7 @@
         GameMode {
             bindings = <&tog 7>;
             key-positions = <48 36 29>;
+            layers = <0 7>;
         };
     };
 
